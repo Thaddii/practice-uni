@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int main(int argc, char const *argv[])
 {
@@ -13,10 +14,6 @@ int main(int argc, char const *argv[])
     if(y == 0) {
         return 1;
     }
-    int result = 0;
-    while(y != 0) {
-        result = x * x;
-        y--;
-    }
-    printf("%d", result);
+    int result = pow(x, y);
+    printf("%d\n", result);
 }
