@@ -8,12 +8,12 @@ A05
 Praktikumsaufgaben:
 Woche 2 - ✅
 Woche 3 - ✅
-Woche 4
+Woche 4 - in progress..
 Woche 5
 Woche 6
 
 Vorlesungen:
-C-Kurs          - ✅
+C-Kurs          - in progress..
 1. Vorlesung    
 2. Vorlesung
 3. Vorlesung
@@ -28,7 +28,7 @@ C-Kurs          - ✅
 Übungen:
 04 - ✅
 05 - ✅
-06 -
+06 - ✅
 07 -
 08 -
 09 -
