@@ -6,11 +6,11 @@ A04
 A05
 
 Praktikumsaufgaben:
-Woche 1 - ✅
 Woche 2 - ✅
-Woche 3
+Woche 3 - ✅
 Woche 4
 Woche 5
+Woche 6
 
 Vorlesungen:
 C-Kurs          - ✅
