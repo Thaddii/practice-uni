@@ -8,7 +8,7 @@ A05
 Praktikumsaufgaben:
 Woche 2 - ✅
 Woche 3 - ✅
-Woche 4 - in progress..
+Woche 4 - only recursion left.. - ✅
 Woche 5
 Woche 6
 
